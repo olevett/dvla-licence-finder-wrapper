@@ -1,0 +1,11 @@
+POST http://localhost:5000
+Content-Type: application/json
+
+{
+    "nino": "NINO",
+    "forename": "FIRSTNAME",
+    "surname": "LASTNAME",
+    "dateOfBirth": "1901-01-01",
+    "postcode": "POSTCODE",
+    "gender": "MALE"
+}
